@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey Hey! 👋
+---
+Call me **Calih!**
+
+I'm a student programmer working on learning desktop app development in low - level languages.
+
+I'm currently learning C and C++, and my main project is a C library to help access live COVID statistics!
+
+Why not join me?
 
 <!--
 **Calihrymn/Calihrymn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
